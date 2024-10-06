@@ -1,4 +1,5 @@
 import datetime as dt
 
 current=dt.datetime.now()
-print(current)
+print(f'current time is:',current)
+
